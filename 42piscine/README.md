@@ -48,19 +48,16 @@ C11 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz<b
 C12 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj<br>
 C13 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<br>
 
-### 42 norm PDF File:
-https://elearning.intra.42.fr/notions/the-norm/subnotions/norm-v3/pdfs/Norm%20V3
-
 ## NOTES
 @Diabolo257 obsidian note > https://github.com/diabolo257/Obsidian
 
 ## TODO
 - [x] Upload modules to github
 - [ ] Make sure all is correct and working
-- [ ] Make git public
+- [x] Make git public
 - [ ] Upload english PDFs
 - [ ] Make the unreturned module
-- [ ] Drink cofee(s) ☕
+- [x] Drink cofee(s) ☕
 - [ ] Complete everything to 100% 🎉
 
 This modules was done by [rphlr](https://rphlr.ch)
