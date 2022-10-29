@@ -14,9 +14,6 @@ Pointers to function > https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygT
 Linked list > https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj<br>
 Tree > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<br>
 
-### 42 norm PDF File:
-https://elearning.intra.42.fr/notions/the-norm/subnotions/norm-v3/pdfs/Norm%20V3
-
 ## NOTES
 @Diabolo257 obsidian note > https://github.com/diabolo257/Obsidian
 
