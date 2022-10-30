@@ -65,7 +65,7 @@ void	ft_lstclear(t_list **lst, void (*del)(void*));
 void	ft_lstiter(t_list *lst, void (*f)(t_list *elem));
 t_list	*ft_lstmap(t_list *lst, t_list *(*f)(t_list *elem));
 char	*ft_strjoin(char const *s1, char const *s2);
-char	**ft_split(char *str, char *charset);
+char	**ft_split(char const *s, char c);
 void	ft_striteri(char *s, void (*f)(unsigned int, char *));
 char	**ft_strsplit(char const *s, char c);
 

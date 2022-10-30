@@ -6,94 +6,90 @@
 /*   By: rrouille <rrouille@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/24 17:29:06 by rrouille          #+#    #+#             */
-/*   Updated: 2022/10/26 14:22:51 by rrouille         ###   ########.fr       */
+/*   Updated: 2022/10/30 14:47:27 by rrouille         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-bool	ft_check_sep(char c, char *charset)
+bool	ft_check_sep(char c, char charset)
 {
-	while (true)
-	{
-		if (*charset == '\0')
-			return (c == '\0');
-		if (*charset == c)
-			return (true);
-		charset++;
-	}
+	if (charset == '\0')
+		return (c == '\0');
+	if (charset == c)
+		return (true);
 	return (false);
 }
 
-int	ft_strlen_charset(char *str, char *charset)
+int	ft_strlen_charset(char const *s, char c)
 {
 	int	i;
 
 	i = 0;
-	while (str[i] && !ft_check_sep(str[i], charset))
+	while (s[i] && !ft_check_sep(s[i], c))
 		i++;
 	return (i);
 }
 
-char	*ft_print_word(char *str, char *charset)
+char	*ft_print_word(char const *s, char c)
 {
 	int		len_strs;
 	int		i;
 	char	*strs;
 
 	i = 0;
-	len_strs = ft_strlen_charset(str, charset);
+	len_strs = ft_strlen_charset(s, c);
 	strs = malloc(sizeof(char) * (len_strs + 1));
 	if (!(strs))
 		return (NULL);
 	while (i < len_strs)
 	{
-		strs[i] = str[i];
+		strs[i] = s[i];
 		i++;
 	}
 	strs[i] = '\0';
 	return (strs);
 }
 
-int	ft_count_strings(char *str, char *charset)
+int	ft_count_strings(char const *s, char c)
 {
 	int	i;
 	int	count;
 
 	count = 0;
 	i = 0;
-	while (str[i] != '\0')
+	while (s[i] != '\0')
 	{
-		while (str[i] != '\0' && ft_check_sep(str[i], charset))
+		while (s[i] != '\0' && ft_check_sep(s[i], c))
 			i++;
-		if (str[i] != '\0')
+		if (s[i] != '\0')
 			count++;
-		while (str[i] != '\0' && !ft_check_sep(str[i], charset))
+		while (s[i] != '\0' && !ft_check_sep(s[i], c))
 			i++;
 	}
 	return (count);
 }
 
-char	**ft_split(char *str, char *charset)
+char	**ft_split(char const *s, char c)
 {
 	char	**strs;
 	int		i;
 
 	i = 0;
-	strs = malloc(sizeof(char *) * (ft_count_strings(str, charset) + 1));
+	strs = malloc(sizeof(char *) * (ft_count_strings(s, c) + 1));
 	if (!(strs))
 		return (NULL);
-	while (*str != '\0')
+	while (*s != '\0')
 	{
-		while (*str != '\0' && ft_check_sep(*str, charset))
-			str++;
-		if (*str != '\0')
+		while (*s != '\0' && ft_check_sep(*s, c))
+			s++;
+		if (*s != '\0')
 		{
-			strs[i] = ft_print_word(str, charset);
+			strs[i] = ft_print_word(s, c);
 			i++;
 		}
-		while (*str != '\0' && !ft_check_sep(*str, charset))
-			str++;
+		while (*s != '\0' && !ft_check_sep(*s, c))
+			s++;
 	}
 	strs[i] = 0;
 	return (strs);

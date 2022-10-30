@@ -10,6 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "libft.h"
+
 int	ft_atoi(const char *str)
 {
 	int	result;
@@ -20,7 +22,7 @@ int	ft_atoi(const char *str)
 	while (*str == '\t' || *str == '\n' || *str == '\v' || *str == '\f'
 		|| *str == '\r' || *str == ' ')
 		str++;
-	while (*str == '+' || *str == '-')
+	if (*str == '+' || *str == '-')
 	{
 		if (*str == '-')
 			is_minus *= -1;
