@@ -12,77 +12,85 @@
 
 #include "libft.h"
 
-static int	ft_count_words(char const *s, char c)
+bool	ft_check_sep(char c, char const *set)
+{
+	if (*set == '\0')
+		return (c == '\0');
+	if (*set == c)
+		return (true);
+	return (false);
+}
+
+int	ft_strlen_charset(char const *str, char const *set)
+{
+	int	i;
+
+	i = 0;
+	while (str[i] && !ft_check_sep(str[i], set))
+		i++;
+	return (i);
+}
+
+char	*ft_print_word(char const *str, char const *set)
+{
+	int		len_strs;
+	int		i;
+	char	*strs;
+
+	i = 0;
+	len_strs = ft_strlen_charset(str, set);
+	strs = malloc(sizeof(char) * (len_strs + 1));
+	if (!(strs))
+		return (NULL);
+	while (i < len_strs)
+	{
+		strs[i] = str[i];
+		i++;
+	}
+	strs[i] = '\0';
+	return (strs);
+}
+
+int	ft_count_strings(char const *str, char const *set)
 {
 	int	i;
 	int	count;
 
-	i = 0;
 	count = 0;
-	while (s[i] != '\0')
+	i = 0;
+	while (str[i] != '\0')
 	{
-		if (s[i] != c)
-		{
+		while (str[i] != '\0' && ft_check_sep(str[i], set))
+			i++;
+		if (str[i] != '\0')
 			count++;
-			while (s[i] != c && s[i] != '\0')
-				i++;
-		}
-		else
+		while (str[i] != '\0' && !ft_check_sep(str[i], set))
 			i++;
 	}
 	return (count);
 }
 
-static int	ft_word_len(char const *s, char c)
+char	*ft_strtrim(char const *str, char const *set)
 {
-	int	i;
-
-	i = 0;
-	while (s[i] != c && s[i] != '\0')
-		i++;
-	return (i);
-}
-
-static char	**ft_free(char **tab, int i)
-{
-	while (i >= 0)
-	{
-		free(tab[i]);
-		i--;
-	}
-	free(tab);
-	return (NULL);
-}
-
-char	**ft_strsplit(char const *s, char c)
-{
-	char	**tab;
+	char	*strs;
 	int		i;
-	int		j;
-	int		k;
 
-	if (!s)
-		return (NULL);
-	tab = (char **)malloc(sizeof(char *) * (ft_count_words(s, c) + 1));
-	if (!tab)
-		return (NULL);
 	i = 0;
-	j = 0;
-	while (s[i] != '\0')
+	strs = malloc(sizeof(char *) * (ft_count_strings(str, set) + 1));
+	if (!(strs))
+		return (NULL);
+	while (*str != '\0')
 	{
-		if (s[i] != c)
+		while (*str != '\0' && ft_check_sep(*str, set))
+			str++;
+		if (*str != '\0')
 		{
-			tab[j] = (char *)malloc(sizeof(char) * (ft_word_len(&s[i], c) + 1));
-			if (!tab[j])
-				return (ft_free(tab, j));
-			k = 0;
-			while (s[i] != c && s[i] != '\0')
-				tab[j][k++] = s[i++];
-			tab[j++][k] = '\0';
-		}
-		else
+			strs = ft_print_word(str, set);
 			i++;
+		}
+		while (*str != '\0' && !ft_check_sep(*str, set))
+			str++;
 	}
-	tab[j] = NULL;
-	return (tab);
+	strs[i] = 0;
+	return (strs);
 }
