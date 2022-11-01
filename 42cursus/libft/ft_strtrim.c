@@ -70,26 +70,26 @@ int	ft_count_strings(char const *str, char const *set)
 	return (count);
 }
 
-char	*ft_strtrim(char const *str, char const *set)
+char	*ft_strtrim(const char *s1, const char *set)
 {
 	char	*strs;
 	int		i;
 
 	i = 0;
-	strs = malloc(sizeof(char *) * (ft_count_strings(str, set) + 1));
+	strs = malloc(sizeof(char *) * (ft_count_strings(s1, set) + 1));
 	if (!(strs))
 		return (NULL);
-	while (*str != '\0')
+	while (*s1 != '\0')
 	{
-		while (*str != '\0' && ft_check_sep(*str, set))
-			str++;
-		if (*str != '\0')
+		while (*s1 != '\0' && ft_check_sep(*s1, set))
+			s1++;
+		if (*s1 != '\0')
 		{
-			strs = ft_print_word(str, set);
+			strs = ft_print_word(s1, set);
 			i++;
 		}
-		while (*str != '\0' && !ft_check_sep(*str, set))
-			str++;
+		while (*s1 != '\0' && !ft_check_sep(*s1, set))
+			s1++;
 	}
 	strs[i] = 0;
 	return (strs);

@@ -70,7 +70,7 @@ int	ft_count_strings(char const *s, char c)
 	return (count);
 }
 
-char	**ft_split(char const *s, char c)
+char	**ft_split(const char *s, char c)
 {
 	char	**strs;
 	int		i;
