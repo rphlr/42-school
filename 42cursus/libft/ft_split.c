@@ -12,7 +12,7 @@
 
 #include "libft.h"
 
-bool	ft_check_sep(char c, char charset)
+static bool	ft_check_sep(char c, char charset)
 {
 	if (charset == '\0')
 		return (c == '\0');
@@ -21,7 +21,7 @@ bool	ft_check_sep(char c, char charset)
 	return (false);
 }
 
-int	ft_strlen_charset(char const *s, char c)
+static int	ft_strlen_charset(char const *s, char c)
 {
 	int	i;
 
@@ -31,7 +31,7 @@ int	ft_strlen_charset(char const *s, char c)
 	return (i);
 }
 
-char	*ft_print_word(char const *s, char c)
+static char	*ft_print_word(char const *s, char c)
 {
 	int		len_strs;
 	int		i;
@@ -51,7 +51,7 @@ char	*ft_print_word(char const *s, char c)
 	return (strs);
 }
 
-int	ft_count_strings(char const *s, char c)
+static int	ft_count_strings(char const *s, char c)
 {
 	int	i;
 	int	count;
