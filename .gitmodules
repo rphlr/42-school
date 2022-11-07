@@ -7,3 +7,12 @@
 [submodule "42piscine"]
 	path = 42piscine
 	url = https://github.com/rphlr/42-piscine.git
+[submodule "42cursus/get_next_line"]
+	path = 42cursus/get_next_line
+	url = https://github.com/rphlr/42-get_next_line.git
+[submodule "42cursus/printf"]
+	path = 42cursus/printf
+	url = https://github.com/rphlr/42-printf.git
+[submodule "42cursus/born2beroot"]
+	path = 42cursus/born2beroot
+	url = https://github.com/rphlr/42-born2beroot.git
