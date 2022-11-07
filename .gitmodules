@@ -4,3 +4,6 @@
 [submodule "42cursus/libft"]
 	path = 42cursus/libft
 	url = https://github.com/rphlr/libft.git
+[submodule "42piscine"]
+	path = 42piscine
+	url = https://github.com/rphlr/42-piscine.git
