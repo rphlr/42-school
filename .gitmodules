@@ -1,3 +1,6 @@
 [submodule "42cursus/42cursus/libf"]
 	path = 42cursus/42cursus/libf
 	url = https://github.com/rphlr/libft.git
+[submodule "42cursus/libft"]
+	path = 42cursus/libft
+	url = https://github.com/rphlr/libft.git
