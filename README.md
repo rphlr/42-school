@@ -4,11 +4,15 @@ This repo will list all my 42 modules.
 ## Projects
 The status of the modules done.
 
+<div align="center">
+
 | Project                         | Started            | Finished ?         | Final mark | Comments |
 | ------------------------------- | ------------------ | ------------------ | ---------- | -------- |
 | [Libft](42cursus/libft)         | :white_check_mark: | :white_check_mark: | 125/100    |          |
 | [printf](42cursus/printf)       | :white_check_mark: | :x:                |            |          |
 | [GNL](42cursus/get_next_line)   | :white_check_mark: | :x:                |            |          |
+
+</div>
 
 ## USEFULS LINKS
 ### Norme 42
