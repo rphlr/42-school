@@ -1,4 +1,14 @@
-# 42-school
+# 42-school repo
+This repo will list all my 42 modules.
+
+## Projects
+The status of the modules done.
+
+| Project                         | Started            | Finished ?         | Final mark | Comments |
+| ------------------------------- | ------------------ | ------------------ | ---------- | -------- |
+| [Libft](42cursus/libft)         | :white_check_mark: | :white_check_mark: | 125/100    |          |
+| [printf](42cursus/printf)       | :white_check_mark: | :x:                |            |          |
+| [GNL](42cursus/get_next_line)   | :white_check_mark: | :x:                |            |          |
 
 ## USEFULS LINKS
 ### Norme 42
@@ -156,6 +166,7 @@ Any reproduction, use outside the school context of 42 or without authorization 
 ### Others
 - [Peer-Evaluation (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Peer-Evaluation)
 - [Vogsphere Manual (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Vogsphere)
+
 ### Usefuls YouTube Playlists (from 42 school)
 Basic shell command and git command > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8<br>
 C basic : (operators, conditions, loops, functions, static and const) > https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-<br>
@@ -170,15 +181,14 @@ Linked list > https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1Uy
 Tree > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<br>
 
 ## NOTES
-@Diabolo257 obsidian note > https://github.com/diabolo257/Obsidian
+My cursus notion -> https://www.notion.so/Cursus-42-f8399a04efc44e03a6f8d4ea69002214<br>
+@Diabolo257 obsidian note -> https://github.com/diabolo257/Obsidian
 
 ## TODO
 - [x] Upload modules to github
-- [ ] Make sure all is correct and working
+- [x] Make sure all is correct and working
 - [x] Make git public
-- [ ] Upload english PDFs
-- [ ] Make the unreturned module
+- [ ] Upload english PDFs 🇺🇸
 - [x] Drink cofee(s) ☕
-- [ ] Complete everything to 100% 🎉
 
 This modules was done by [rphlr](https://rphlr.ch)
