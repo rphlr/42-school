@@ -6,12 +6,12 @@ The status of the modules done.
 
 <div align="center">
 
-| Project                            | Started            | Finished ?         | Final mark | Comments |
-| ---------------------------------- | ------------------ | ------------------ | ---------- | -------- |
-| [Libft](42cursus/libft)            | :white_check_mark: | :white_check_mark: | 125/100    |          |
-| [printf](42cursus/printf)          | :white_check_mark: | :x:                |            |          |
-| [GNL](42cursus/get_next_line)      | :white_check_mark: | :x:                |            |          |
-| [Born2beroot](42cursus/born2beroot)| :white_check_mark: | :x:                |            |          |
+| Project                                               | Started            | Finished ?         | Final mark | Comments |
+| ----------------------------------------------------- | ------------------ | ------------------ | ---------- | -------- |
+| [Libft](https://github.com/rphlr/42-libft/)           | :white_check_mark: | :white_check_mark: | 125/100    |          |
+| [printf](https://github.com/rphlr/42-printf)          | :white_check_mark: | :x:                |            |          |
+| [GNL](https://github.com/rphlr/42-get_next_line)      | :white_check_mark: | :x:                |            |          |
+| [Born2beroot](https://github.com/rphlr/42-born2beroot)| :white_check_mark: | :x:                |            |          |
 
 </div>
 
