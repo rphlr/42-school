@@ -12,6 +12,23 @@ The status of the modules done.
 | [printf](https://github.com/rphlr/42-printf)          | :white_check_mark: | :x:                |            |          |
 | [GNL](https://github.com/rphlr/42-get_next_line)      | :white_check_mark: | :x:                |            |          |
 | [Born2beroot](https://github.com/rphlr/42-born2beroot)| :white_check_mark: | :x:                |            |          |
+| [push_swap](https://github.com/rphlr/)                | :x:                | :x:                |            |          |
+| [so_long](https://github.com/rphlr/)                  | :x:                | :x:                |            |          |
+| [fract-ol](https://github.com/rphlr/)                 | :x:                | :x:                |            |          |
+| [Fdf](https://github.com/rphlr/)                      | :x:                | :x:                |            |          |
+| [pipex](https://github.com/rphlr/)                    | :x:                | :x:                |            |          |
+| [minitalk](https://github.com/rphlr/)                 | :x:                | :x:                |            |          |
+| [minishell](https://github.com/rphlr/)                | :x:                | :x:                |            |          |
+| [philosophers](https://github.com/rphlr/)             | :x:                | :x:                |            |          |
+| [netpractice](https://github.com/rphlr/)              | :x:                | :x:                |            |          |
+| [CPP](https://github.com/rphlr/)                      | :x:                | :x:                |            |          |
+| [cube3d](https://github.com/rphlr/)                   | :x:                | :x:                |            |          |
+| [minRT](https://github.com/rphlr/)                    | :x:                | :x:                |            |          |
+| [inception](https://github.com/rphlr/)                | :x:                | :x:                |            |          |
+| [ft_containers](https://github.com/rphlr/)            | :x:                | :x:                |            |          |
+| [webserv](https://github.com/rphlr/)                  | :x:                | :x:                |            |          |
+| [ft_irc](https://github.com/rphlr/)                   | :x:                | :x:                |            |          |
+| [ft_transandance](https://github.com/rphlr/)          | :x:                | :x:                |            |          |
 
 </div>
 
