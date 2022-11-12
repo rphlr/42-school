@@ -2,10 +2,6 @@
 <p align="center">All the 42 school cursus</p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/rphlr/42-school?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/rphlr/42-school?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/rphlr/42-school?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rphlr/42-school?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-school?color=green" />
 </p>
 
