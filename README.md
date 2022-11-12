@@ -44,7 +44,7 @@ The status of the modules done.
 
 </div>
 
-### 💫 complementary projects
+### 💫 Complementary projects
 [My own C library inspired by libft](https://github.com/rphlr/lib).
 
 ---
