@@ -66,19 +66,35 @@ $ make
 ```
 
 ## 	🔗 USEFULS LINKS
-### 📝 NOTES
+### 📝 Notes
 My cursus notion -> https://www.notion.so/Cursus-42-f8399a04efc44e03a6f8d4ea69002214<br>
 [@Laendrun](https://github.com/Laendrun) and [@thebrisly](https://github.com/thebrisly)'s awesome 42 cursus gitbook -> https://42-l-and-s.gitbook.io/42-cursus/<br>
 [@Diabolo257](https://github.com/Diabolo257) obsidian note -> https://github.com/diabolo257/Obsidian<br>
+
+### Usefuls YouTube Playlists (from 42 school)
+Basic shell command and git command > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8<br>
+C basic : (operators, conditions, loops, functions, static and const) > https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-<br>
+Pointers > https://www.youtube.com/playlist?list=PLVQYiy6xNUxytsXWxZx6odBJMbRktIHTs<br>
+Recursivity > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxZbeH9b0VC-nC6QsJRw5Ah<br>
+Main args > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxDlCkkCX262SI90TsllYUW<br>
+Malloc > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzNYF00nlmx624twFlamqLt<br>
+Preprocessors and data structures > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxMI_GiGGb2hxMcd3IwNYRy<br>
+Makefiles and library > https://www.youtube.com/playlist?list=PLVQYiy6xNUxw6n6q_i8wek6U7t7CeAXhU<br>
+Pointers to function > https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz<br>
+Linked list > https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj<br>
+Tree > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<br>
 
 ### 42 norm
 - [Norme 2.0.0](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_0.pdf)
 - [Norme 2.0.1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_1.pdf)
 
-### All 42 PDFs from [42_Subjects's github repository](https://github.com/Binary-Hackers/42_Subjects)
 
-__All these subjects are the exclusive property of 42 School.__<br />
+### All 42 PDFs from [42_Subjects's github repository](https://github.com/Binary-Hackers/42_Subjects)
+__All these subjects are the exclusive property of 42 School.__<br>
 Any reproduction, use outside the school context of 42 or without authorization is prohibited and may be treated as copyright infringement.
+
+<details>
+<summary>Click here to list them all.</summary>
 
 #### Global
 - [42 Commandements (T0)](https://github.com/BenjaminSouchet/42_Subjects/blob/master/00_Projects/00_Global/42_commandements.pdf)
@@ -98,7 +114,6 @@ Any reproduction, use outside the school context of 42 or without authorization 
 - [Unity (T2)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/01_Piscines/Unity)
 
 ### Rushes
-
 - AlCu (Not Available)
 - [Alum1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/02_Rushes/alum1.pdf)
 - [Arkanoid](https://github.com/BenjaminSouchet/42_Subjects/blob/master/02_Rushes/arkanoid.pdf)
@@ -226,19 +241,7 @@ Any reproduction, use outside the school context of 42 or without authorization 
 ### Others
 - [Peer-Evaluation (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Peer-Evaluation)
 - [Vogsphere Manual (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Vogsphere)
-
-### Usefuls YouTube Playlists (from 42 school)
-Basic shell command and git command > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8<br>
-C basic : (operators, conditions, loops, functions, static and const) > https://www.youtube.com/playlist?list=PLVQYiy6xNUxz5wbzZn4tfUhF4djgzscB-<br>
-Pointers > https://www.youtube.com/playlist?list=PLVQYiy6xNUxytsXWxZx6odBJMbRktIHTs<br>
-Recursivity > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxZbeH9b0VC-nC6QsJRw5Ah<br>
-Main args > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxDlCkkCX262SI90TsllYUW<br>
-Malloc > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzNYF00nlmx624twFlamqLt<br>
-Preprocessors and data structures > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxMI_GiGGb2hxMcd3IwNYRy<br>
-Makefiles and library > https://www.youtube.com/playlist?list=PLVQYiy6xNUxw6n6q_i8wek6U7t7CeAXhU<br>
-Pointers to function > https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz<br>
-Linked list > https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj<br>
-Tree > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<br>
+</details>
 
 ## TODO
 - [x] Upload modules to github
