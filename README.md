@@ -1,7 +1,23 @@
 # 42-school repo
-This repo will list all my 42 modules.
+<p align="center">All the 42 school cursus</p>
 
-## Projects
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/rphlr/42-school?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/rphlr/42-school?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/rphlr/42-school?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/rphlr/42-school?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-school?color=green" />
+</p>
+
+---
+
+## 💡 About the repo
+
+> _This repo will list all the modules I've done for my cursus at the 42 School._
+
+	I will regularly update this repo in order to add all the additional modules I will code during my cursus at the 42 school.
+
+### :white_check_mark: Projects done
 The status of the modules done.
 
 <div align="center">
@@ -32,8 +48,34 @@ The status of the modules done.
 
 </div>
 
-## USEFULS LINKS
-### Norme 42
+### 💫 complementary projects
+[My own C library inspired by libft](https://github.com/rphlr/lib).
+
+---
+
+## 🛠️ Usage
+
+### Requirements
+
+The function is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+
+### Instructions
+
+**Compiling the modules**
+
+To compile, go to the folder location and run :
+
+```shell
+$ make
+```
+
+## 	🔗 USEFULS LINKS
+### 📝 NOTES
+My cursus notion -> https://www.notion.so/Cursus-42-f8399a04efc44e03a6f8d4ea69002214<br>
+@Laendrun and @thebrisly's awesome 42 cursus gitbook -> https://42-l-and-s.gitbook.io/42-cursus/<br>
+@Diabolo257 obsidian note -> https://github.com/diabolo257/Obsidian<br>
+
+### 42 norm
 - [Norme 2.0.0](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_0.pdf)
 - [Norme 2.0.1](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_1.pdf)
 
@@ -201,10 +243,6 @@ Makefiles and library > https://www.youtube.com/playlist?list=PLVQYiy6xNUxw6n6q_
 Pointers to function > https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz<br>
 Linked list > https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj<br>
 Tree > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<br>
-
-## NOTES
-My cursus notion -> https://www.notion.so/Cursus-42-f8399a04efc44e03a6f8d4ea69002214<br>
-@Diabolo257 obsidian note -> https://github.com/diabolo257/Obsidian
 
 ## TODO
 - [x] Upload modules to github
