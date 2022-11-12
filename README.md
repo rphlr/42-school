@@ -68,8 +68,8 @@ $ make
 ## 	🔗 USEFULS LINKS
 ### 📝 NOTES
 My cursus notion -> https://www.notion.so/Cursus-42-f8399a04efc44e03a6f8d4ea69002214<br>
-@Laendrun and @thebrisly's awesome 42 cursus gitbook -> https://42-l-and-s.gitbook.io/42-cursus/<br>
-@Diabolo257 obsidian note -> https://github.com/diabolo257/Obsidian<br>
+[@Laendrun](https://github.com/Laendrun) and [@thebrisly](https://github.com/thebrisly)'s awesome 42 cursus gitbook -> https://42-l-and-s.gitbook.io/42-cursus/<br>
+[@Diabolo257](https://github.com/Diabolo257) obsidian note -> https://github.com/diabolo257/Obsidian<br>
 
 ### 42 norm
 - [Norme 2.0.0](https://github.com/BenjaminSouchet/42_Subjects/blob/master/04_Norme/norme_2_0_0.pdf)
