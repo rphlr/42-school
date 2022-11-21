@@ -10,6 +10,3 @@
 [submodule "42cursus/printf"]
 	path = 42cursus/printf
 	url = https://github.com/rphlr/42-printf.git
-[submodule "42cursus/born2beroot"]
-	path = 42cursus/born2beroot
-	url = https://github.com/rphlr/42-born2beroot.git
