@@ -103,6 +103,10 @@ Tree > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<
 __All these subjects are the exclusive property of 42 School.__<br>
 Any reproduction, use outside the school context of 42 or without authorization is prohibited and may be treated as copyright infringement.
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 <details>
 <summary>Click here to list them all.</summary>
 
@@ -253,11 +257,19 @@ Any reproduction, use outside the school context of 42 or without authorization 
 - [Vogsphere Manual (Langs : EN / FR)](https://github.com/BenjaminSouchet/42_Subjects/tree/master/05_Others/Vogsphere)
 </details>
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## TODO
 - [x] Upload modules to github
 - [x] Make sure all is correct and working
 - [x] Make git public
 - [ ] Upload english PDFs 🇺🇸
 - [x] Drink cofee(s) ☕
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 This modules was done by [rphlr](https://rphlr.ch)
