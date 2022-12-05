@@ -24,7 +24,7 @@ The status of the modules done.
 
 | Project                                                   | Started            | Finished ?         | Final mark | Comments |
 | --------------------------------------------------------- | ------------------ | ------------------ | ---------- | -------- |
-| [Libft](https://github.com/rphlr/42-libft/)               | :white_check_mark: | :white_check_mark: | 120/100    |          |
+| [Libft](https://github.com/rphlr/42-libft/)               | :white_check_mark: | :white_check_mark: | 125/100    |          |
 | [printf](https://github.com/rphlr/42-printf)              | :white_check_mark: | :white_check_mark: | 100/100    |          |
 | [GNL](https://github.com/rphlr/42-get_next_line)          | :white_check_mark: | :x:                |            |          |
 | [Born2beroot](https://github.com/rphlr/42-born2beroot)    | :white_check_mark: | :x:                |            |          |
