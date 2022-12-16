@@ -13,12 +13,12 @@
 
 ## 💡 About the repo
 
-> _This repo will list all the modules I've done for my cursus at the 42 School._
+> _This repository will contain a list of all the modules I have completed as part of my studies at the 42 School._
 
-	I will regularly update this repo in order to add all the additional modules I will code during my cursus at the 42 school.
+	I will frequently update this repository to include all the additional modules I will create during my studies at the 42 school.
 
 ### :white_check_mark: Projects done
-The status of the modules done.
+The status of the completed modules.
 
 <div align="center">
 
@@ -59,7 +59,7 @@ The status of the modules done.
 
 ### Requirements
 
-The function is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
+The function is written in the C language and therefore requires the **`gcc` compiler** and some standard **C libraries** to run.
 
 ### Instructions
 
@@ -266,7 +266,7 @@ Any reproduction, use outside the school context of 42 or without authorization 
 - [x] Make sure all is correct and working
 - [x] Make git public
 - [ ] Upload english PDFs 🇺🇸
-- [x] Drink cofee(s) ☕
+- [x] Drink coffee(s) ☕
 
 <div align="center" style="text-align:center">
 	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
