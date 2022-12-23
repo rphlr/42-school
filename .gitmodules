@@ -13,3 +13,30 @@
 [submodule "42cursus/--name"]
 	path = 42cursus/born2beroot
 	url = git@github.com:rphlr/42-born2beroot.git
+[submodule "42cursus/push_swap"]
+	path = 42cursus/push_swap
+	url = git@github.com:rphlr/42-push_swap.git
+[submodule "42cursus/minitalk"]
+	path = 42cursus/minitalk
+	url = git@github.com:rphlr/42-minitalk.git
+[submodule "42cursus/.git"]
+	path = 42cursus/.git
+	url = git@github.com:rphlr/42-pipex
+[submodule "42cursus/pipex"]
+	path = 42cursus/pipex
+	url = git@github.com:rphlr/42-pipex.git
+[submodule "42cursus/so_long"]
+	path = 42cursus/so_long
+	url = git@github.com:rphlr/42-so_long.git
+[submodule "42cursus/FdF"]
+	path = 42cursus/FdF
+	url = git@github.com:rphlr/42-FdF.git
+[submodule "42cursus/fract-ol"]
+	path = 42cursus/fract-ol
+	url = git@github.com:rphlr/42-fract-ol.git
+[submodule "42cursus/Philosophers"]
+	path = 42cursus/Philosophers
+	url = git@github.com:rphlr/42-Philosophers.git
+[submodule "42cursus/minishell"]
+	path = 42cursus/minishell
+	url = git@github.com:rphlr/42-minishell.git
