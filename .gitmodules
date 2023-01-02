@@ -40,3 +40,6 @@
 [submodule "42cursus/minishell"]
 	path = 42cursus/minishell
 	url = git@github.com:rphlr/42-minishell.git
+[submodule "42cursus/NetPractice"]
+	path = 42cursus/NetPractice
+	url = git@github.com:rphlr/42-NetPractice.git
