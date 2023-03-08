@@ -32,7 +32,7 @@ The status of the completed modules.
 | [so_long](https://github.com/rphlr/42-so_long)            | ❌      | ❌         |            |                       |
 | [fract-ol](https://github.com/rphlr/42-fract-ol)          | ❌      | ❌         |            |                       |
 | [FdF](https://github.com/rphlr/42-fdf)                    | ❌      | ❌         |            |                       |
-| [pipex](https://github.com/rphlr/42-pipex)                | ❌      | ❌         |            |                       |
+| [pipex](https://github.com/rphlr/42-pipex)                | ✅      | ✅         | 125/100    |                       |
 | [minitalk](https://github.com/rphlr/42-minitalk)          | ❌      | ❌         |            |                       |
 | [minishell](https://github.com/rphlr/42-minishell)        | ❌      | ❌         |            |                       |
 | [philosophers](https://github.com/rphlr/42-philosophers)  | ❌      | ❌         |            |                       |
