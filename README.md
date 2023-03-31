@@ -17,6 +17,12 @@
 
 	I will frequently update this repository to include all the additional modules I will create during my studies at the 42 school.
 
+## How do I clone all the repo ?
+
+```
+git clone --recurse-submodules https://github.com/rphlr/42-school.git <folder name>
+```
+
 ### ✅      Projects done
 The status of the completed modules.
 
