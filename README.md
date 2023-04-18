@@ -17,6 +17,12 @@
 
 	I will frequently update this repository to include all the additional modules I will create during my studies at the 42 school.
 
+## How do I clone all the repo ?
+
+```
+git clone --recurse-submodules https://github.com/rphlr/42-school.git <folder name>
+```
+
 ### ✅      Projects done
 The status of the completed modules.
 
@@ -32,7 +38,7 @@ The status of the completed modules.
 | [so_long](https://github.com/rphlr/42-so_long)            | ❌      | ❌         |            |                       |
 | [fract-ol](https://github.com/rphlr/42-fract-ol)          | ❌      | ❌         |            |                       |
 | [FdF](https://github.com/rphlr/42-fdf)                    | ❌      | ❌         |            |                       |
-| [pipex](https://github.com/rphlr/42-pipex)                | ❌      | ❌         |            |                       |
+| [pipex](https://github.com/rphlr/42-pipex)                | ✅      | ✅         | 125/100    |                       |
 | [minitalk](https://github.com/rphlr/42-minitalk)          | ❌      | ❌         |            |                       |
 | [minishell](https://github.com/rphlr/42-minishell)        | ❌      | ❌         |            |                       |
 | [philosophers](https://github.com/rphlr/42-philosophers)  | ❌      | ❌         |            |                       |
