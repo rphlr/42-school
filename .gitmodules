@@ -1,45 +1,51 @@
-[submodule "42piscine"]
-	path = 42piscine
-	url = git@github.com:rphlr/42-piscine.git
-[submodule "42cursus/libft"]
-	path = 42cursus/libft
-	url = git@github.com:rphlr/libft.git
-[submodule "42cursus/get_next_line"]
-	path = 42cursus/get_next_line
-	url = git@github.com:rphlr/42-get_next_line.git
-[submodule "42cursus/printf"]
-	path = 42cursus/printf
-	url = git@github.com:rphlr/42-printf.git
-[submodule "42cursus/--name"]
-	path = 42cursus/born2beroot
-	url = git@github.com:rphlr/42-born2beroot.git
-[submodule "42cursus/push_swap"]
-	path = 42cursus/push_swap
-	url = git@github.com:rphlr/42-push_swap.git
-[submodule "42cursus/minitalk"]
-	path = 42cursus/minitalk
-	url = git@github.com:rphlr/42-minitalk.git
-[submodule "42cursus/.git"]
-	path = 42cursus/.git
-	url = git@github.com:rphlr/42-pipex
-[submodule "42cursus/pipex"]
-	path = 42cursus/pipex
-	url = git@github.com:rphlr/42-pipex.git
-[submodule "42cursus/so_long"]
-	path = 42cursus/so_long
-	url = git@github.com:rphlr/42-so_long.git
-[submodule "42cursus/FdF"]
-	path = 42cursus/FdF
-	url = git@github.com:rphlr/42-FdF.git
-[submodule "42cursus/fract-ol"]
-	path = 42cursus/fract-ol
-	url = git@github.com:rphlr/42-fract-ol.git
-[submodule "42cursus/Philosophers"]
-	path = 42cursus/Philosophers
-	url = git@github.com:rphlr/42-Philosophers.git
-[submodule "42cursus/minishell"]
-	path = 42cursus/minishell
-	url = git@github.com:rphlr/42-minishell.git
-[submodule "42cursus/NetPractice"]
-	path = 42cursus/NetPractice
-	url = git@github.com:rphlr/42-NetPractice.git
+[submodule "Piscine"]
+	path = Piscine
+	url = https://github.com/42-piscine.git
+[submodule "Cursus/libft"]
+	path = Cursus/libft
+	url = https://github.com/libft.git
+[submodule "Cursus/get_next_line"]
+	path = Cursus/get_next_line
+	url = https://github.com/42-get_next_line.git
+[submodule "Cursus/printf"]
+	path = Cursus/printf
+	url = https://github.com/42-printf.git
+[submodule "Cursus/--name"]
+	path = Cursus/born2beroot
+	url = https://github.com/42-born2beroot.git
+[submodule "Cursus/push_swap"]
+	path = Cursus/push_swap
+	url = https://github.com/42-push_swap.git
+[submodule "Cursus/minitalk"]
+	path = Cursus/minitalk
+	url = https://github.com/42-minitalk.git
+[submodule "Cursus/.git"]
+	path = Cursus/.git
+	url = https://github.com/42-pipex
+[submodule "Cursus/pipex"]
+	path = Cursus/pipex
+	url = https://github.com/42-pipex.git
+[submodule "Cursus/so_long"]
+	path = Cursus/so_long
+	url = https://github.com/42-so_long.git
+[submodule "Cursus/FdF"]
+	path = Cursus/FdF
+	url = https://github.com/42-FdF.git
+[submodule "Cursus/fract-ol"]
+	path = Cursus/fract-ol
+	url = https://github.com/42-fract-ol.git
+[submodule "Cursus/Philosophers"]
+	path = Cursus/Philosophers
+	url = https://github.com/42-Philosophers.git
+[submodule "Cursus/minishell"]
+	path = Cursus/minishell
+	url = https://github.com/42-minishell.git
+[submodule "Cursus/NetPractice"]
+	path = Cursus/NetPractice
+	url = https://github.com/42-NetPractice.git
+[submodule "Exams"]
+	path = Exams
+	url = https://github.com/rphlr/42-Exams
+[submodule "Evals"]
+	path = Evals
+	url = https://github.com/rphlr/42-Evals
