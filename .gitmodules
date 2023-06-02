@@ -3,7 +3,7 @@
 	url = https://github.com/rphlr/42-piscine.git
 [submodule "Cursus/libft"]
 	path = Cursus/libft
-	url = https://github.com/libft.git
+	url = https://github.com/rphlr/42-libft.git
 [submodule "Cursus/get_next_line"]
 	path = Cursus/get_next_line
 	url = https://github.com/rphlr/42-get_next_line.git
