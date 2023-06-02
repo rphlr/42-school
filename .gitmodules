@@ -130,3 +130,9 @@
 	path = Evals
 	url = https://github.com/rphlr/42-Evals
 	link = true
+[submodule "Cursus/Rank01/ft_printf"]
+	path = Cursus/Rank01/ft_printf
+	url = https://github.com/rphlr/42-printf
+[submodule "Cursus/Rank03/Philosopher"]
+	path = Cursus/Rank03/Philosopher
+	url = https://github.com/rphlr/42-Philosophers
