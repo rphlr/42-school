@@ -204,3 +204,6 @@
 [submodule "Cursus/Rank04/NetPractice"]
 	path = Cursus/Rank04/NetPractice
 	url = https://github.com/rphlr/42-NetPractice
+[submodule "Cursus/Rank03/Philosophers"]
+	path = Cursus/Rank03/Philosophers
+	url = https://github.com/rphlr/42-Philosophers
