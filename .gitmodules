@@ -136,3 +136,54 @@
 [submodule "Cursus/Rank03/Philosopher"]
 	path = Cursus/Rank03/Philosopher
 	url = https://github.com/rphlr/42-Philosophers
+[submodule "Cursus/Rank04/CPP_Cursus/CPP00"]
+	path = Cursus/Rank04/CPP_Cursus/CPP00
+	url = https://github.com/rphlr/42-CPP00
+[submodule "Cursus/Rank04/CPP_Cursus/CPP01"]
+	path = Cursus/Rank04/CPP_Cursus/CPP01
+	url = https://github.com/rphlr/42-CPP01
+[submodule "Cursus/Rank04/CPP_Cursus/CPP02"]
+	path = Cursus/Rank04/CPP_Cursus/CPP02
+	url = https://github.com/rphlr/42-CPP02
+[submodule "Cursus/Rank04/CPP_Cursus/CPP03"]
+	path = Cursus/Rank04/CPP_Cursus/CPP03
+	url = https://github.com/rphlr/42-CPP03
+[submodule "Cursus/Rank04/CPP_Cursus/CPP04"]
+	path = Cursus/Rank04/CPP_Cursus/CPP04
+	url = https://github.com/rphlr/42-CPP04
+[submodule "Cursus/Rank04/CPP_Cursus/CPP05"]
+	path = Cursus/Rank04/CPP_Cursus/CPP05
+	url = https://github.com/rphlr/42-CPP05
+[submodule "Cursus/Rank04/CPP_Cursus/CPP06"]
+	path = Cursus/Rank04/CPP_Cursus/CPP06
+	url = https://github.com/rphlr/42-CPP06
+[submodule "Cursus/Rank04/CPP_Cursus/CPP07"]
+	path = Cursus/Rank04/CPP_Cursus/CPP07
+	url = https://github.com/rphlr/42-CPP07
+[submodule "Cursus/Rank04/CPP_Cursus/CPP08"]
+	path = Cursus/Rank04/CPP_Cursus/CPP08
+	url = https://github.com/rphlr/42-CPP08
+[submodule "Cursus/Rank04/CPP_Cursus/CPP09"]
+	path = Cursus/Rank04/CPP_Cursus/CPP09
+	url = https://github.com/rphlr/42-CPP09
+[submodule "Cursus/Rank04/cub3d"]
+	path = Cursus/Rank04/cub3d
+	url = https://github.com/rphlr/42-cub3d
+[submodule "Cursus/Rank04/miniRT"]
+	path = Cursus/Rank04/miniRT
+	url = https://github.com/rphlr/42-miniRT
+[submodule "Cursus/Rank05/42-ft_containers"]
+	path = Cursus/Rank05/42-ft_containers
+	url = https://github.com/rphlr/42-ft_containers
+[submodule "Cursus/Rank05/irc"]
+	path = Cursus/Rank05/irc
+	url = https://github.com/rphlr/42-ft_irc
+[submodule "Cursus/Rank05/Inception"]
+	path = Cursus/Rank05/Inception
+	url = https://github.com/rphlr/42-Inception
+[submodule "Cursus/Rank05/webserv"]
+	path = Cursus/Rank05/webserv
+	url = https://github.com/rphlr/42-webserv
+[submodule "Cursus/Rank06/transcendence"]
+	path = Cursus/Rank06/transcendence
+	url = https://github.com/rphlr/42-ft_transcendence
