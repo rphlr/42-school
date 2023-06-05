@@ -34,14 +34,14 @@ The status of the completed modules.
 | [printf](https://github.com/rphlr/42-printf)              | ✅      | ✅         | 💯          |                       |
 | [GNL](https://github.com/rphlr/42-get_next_line)          | ✅      | ✅         | 125/100    |                       |
 | [Born2beroot](https://github.com/rphlr/42-born2beroot)    | ✅      | ✅         | 125/100    |                       |
-| [push_swap](https://github.com/rphlr/42-push_swap)        | ❌      | ❌         |            |                       |
-| [so_long](https://github.com/rphlr/42-so_long)            | ❌      | ❌         |            |                       |
-| [fract-ol](https://github.com/rphlr/42-fract-ol)          | ❌      | ❌         |            |                       |
+| [push_swap](https://github.com/rphlr/42-push_swap)        | ✅      | ✅         | 86/100     |                       |
+| [so_long](https://github.com/rphlr/42-so_long)            | ✅      | ✅         | 125/100    |                       |
+| [fract-ol](https://github.com/rphlr/42-fract-ol)          | ✅      | 💤         |            | Maybe will finish it someday. |
 | [FdF](https://github.com/rphlr/42-fdf)                    | ❌      | ❌         |            |                       |
 | [pipex](https://github.com/rphlr/42-pipex)                | ✅      | ✅         | 125/100    |                       |
 | [minitalk](https://github.com/rphlr/42-minitalk)          | ❌      | ❌         |            |                       |
 | [minishell](https://github.com/rphlr/42-minishell)        | ❌      | ❌         |            |                       |
-| [philosophers](https://github.com/rphlr/42-philosophers)  | ❌      | ❌         |            |                       |
+| [philosophers](https://github.com/rphlr/42-philosophers)  | ✅      | ❌         |            |                       |
 | [netpractice](https://github.com/rphlr/42-netpractice)    | ❌      | ❌         |            |                       |
 | [CPP](https://github.com/rphlr/42-cpp)                    | ❌      | ❌         |            |                       |
 | [cube3d](https://github.com/rphlr/42-cube3d)              | ❌      | ❌         |            |                       |
