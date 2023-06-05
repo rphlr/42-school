@@ -1,8 +1,0 @@
-a.out
-*.o
-*.d
-*.so
-*.a
-.DS_Store
-tempCodeRunnerFile.c
-*.swp

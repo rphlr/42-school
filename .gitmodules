@@ -2,10 +2,6 @@
 	path = Piscine
 	url = https://github.com/rphlr/42-piscine
 	link = true
-[submodule "Libft"]
-    path = Cursus/Rank00/Libft
-    url = https://github.com/rphlr/42-libft
-    link = true
 [submodule "Born2beroot"]
     path = Cursus/Rank01/Born2beroot
     url = https://github.com/rphlr/42-born2beroot
@@ -187,3 +183,24 @@
 [submodule "Cursus/Rank06/transcendence"]
 	path = Cursus/Rank06/transcendence
 	url = https://github.com/rphlr/42-ft_transcendence
+[submodule "Cursus/Rank00/libft"]
+	path = Cursus/Rank00/libft
+	url = https://github.com/rphlr/42-libft
+[submodule "Cursus/Rank01/born2beroot"]
+	path = Cursus/Rank01/born2beroot
+	url = https://github.com/rphlr/42-born2beroot
+[submodule "Cursus/Rank02/FdF"]
+	path = Cursus/Rank02/FdF
+	url = https://github.com/rphlr/42-FdF
+[submodule "Cursus/Rank02/minitalk"]
+	path = Cursus/Rank02/minitalk
+	url = https://github.com/rphlr/42-minitalk
+[submodule "Cursus/Rank02/pipex"]
+	path = Cursus/Rank02/pipex
+	url = https://github.com/rphlr/42-pipex
+[submodule "Cursus/Rank03/minishell"]
+	path = Cursus/Rank03/minishell
+	url = https://github.com/rphlr/42-minishell
+[submodule "Cursus/Rank04/NetPractice"]
+	path = Cursus/Rank04/NetPractice
+	url = https://github.com/rphlr/42-NetPractice
