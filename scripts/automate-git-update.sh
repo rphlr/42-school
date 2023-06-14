@@ -40,7 +40,7 @@ function updateMainRepo() {
 	# git commit -m "Submodules updated"
 	# git push origin main
 	if git diff-index --quiet HEAD --; then
-		printf "$RED''No change to commit in main repo 🙅‍♂️\n"
+		printf $RED"No change to commit in main repo 🙅‍♂️\n"
 	else
 		git add . && 
 		git commit -m "Submodule updated" && 
