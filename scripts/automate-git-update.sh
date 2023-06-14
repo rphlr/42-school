@@ -20,8 +20,6 @@ function startMessage()
     clear
     printf "${BOLD}${CYAN}"
 cat << "EOF"
-
-
                                __              __            __                 
                               /  |            /  |          /  |                
   _______   _______   ______  $$/   ______   _$$ |_         $$ |____   __    __ 
