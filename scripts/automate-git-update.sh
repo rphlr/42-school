@@ -15,11 +15,13 @@ BOLD='\033[1m'
 ITALIC='\033[3m'
 UNDERLINE='\033[4m'
 
-function startMessage() {
+function startMessage()
+{
 	printf "${BOLD}${BLUE}Starting script to update all submodules and main repository...${NC}\n"
 }
 
-function updateSubmodules() {
+function updateSubmodules()
+{
 	printf "${BOLD}${YELLOW}Updating submodules...${NC}\n"
 	git submodule foreach --recursive '
 		printf "'$ITALIC$PURPLE'Working on submodule: %s'$NC'\n" "$path"
@@ -34,11 +36,8 @@ function updateSubmodules() {
 	'
 }
 
-function updateMainRepo() {
-	# printf "${BOLD}${YELLOW}Updating main repository...${NC}\n"
-	# git add .
-	# git commit -m "Submodules updated"
-	# git push origin main
+function updateMainRepo()
+{
 	if git diff-index --quiet HEAD --; then
 		printf $RED"No change to commit in main repo 🙅‍♂️\n"
 	else
