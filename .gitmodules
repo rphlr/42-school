@@ -102,10 +102,6 @@
     path = Cursus/Rank05/Inception
     url = https://github.com/rphlr/42-Inception
     link = true
-[submodule "containers"]
-    path = Cursus/Rank05/containers
-    url = https://github.com/rphlr/42-containers
-    link = true
 [submodule "irc"]
     path = Cursus/Rank05/irc
     url = https://github.com/rphlr/42-irc
