@@ -28,12 +28,31 @@
     <mapping directory="$PROJECT_DIR$/Cursus/Rank04/cub3d" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Cursus/Rank04/miniRT" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Cursus/Rank05/Inception" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Cursus/Rank05/containers" vcs="" />
     <mapping directory="$PROJECT_DIR$/Cursus/Rank05/irc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Cursus/Rank05/webserv" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Cursus/Rank06/transcendence" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Evals" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Exams" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Exams/Rank02" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Piscine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C03" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C04" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C05" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C06" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C07" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C08" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C09" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C12" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/C13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/RUSH00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/RUSH01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/RUSH02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/SHELL00" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Piscine/SHELL01" vcs="Git" />
   </component>
 </project>

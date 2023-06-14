@@ -14,10 +14,6 @@
     path = Cursus/Rank01/get_next_line
     url = https://github.com/rphlr/42-get_next_line
     link = true
-[submodule "FdF"]
-    path = Cursus/Rank02/FdF
-    url = https://github.com/rphlr/42-FdF
-    link = true
 [submodule "fract-ol"]
     path = Cursus/Rank02/fract-ol
     url = https://github.com/rphlr/42-fract-ol
