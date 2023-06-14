@@ -23,11 +23,14 @@ function updateSubmodules() {
     echo -e "${BOLD}${YELLOW}Updating submodules...${NC}"
     git submodule foreach --recursive '
         echo -e "${ITALIC}${PURPLE}Working on submodule: $path${NC}"
-        git checkout main || git checkout -b main && 
-        git add . && 
-        git commit -m "Submodule updated" && 
-        git push origin main || 
-        echo -e "${RED}No change to commit in submodule: $path 🙅‍♂️${NC}" 
+        git checkout main || git checkout -b main
+        if git diff-index --quiet HEAD --; then
+            echo -e "${RED}No change to commit in submodule: $path 🙅‍♂️${NC}" 
+        else
+            git add . && 
+            git commit -m "Submodule updated" && 
+            git push origin main
+        fi
     '
 }
 
