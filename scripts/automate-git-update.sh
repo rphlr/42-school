@@ -16,16 +16,16 @@ ITALIC='\033[3m'
 UNDERLINE='\033[4m'
 
 function startMessage() {
-    echo -e "${BOLD}${BLUE}Starting script to update all submodules and main repository...${NC}"
+    printf "${BOLD}${BLUE}Starting script to update all submodules and main repository...${NC}\n"
 }
 
 function updateSubmodules() {
-    echo -e "${BOLD}${YELLOW}Updating submodules...${NC}"
+    printf "${BOLD}${YELLOW}Updating submodules...${NC}\n"
     git submodule foreach --recursive '
-        echo -e "${ITALIC}${PURPLE}Working on submodule: $path${NC}"
+        printf "${ITALIC}${PURPLE}Working on submodule: $path${NC}\n"
         git checkout main || git checkout -b main
         if git diff-index --quiet HEAD --; then
-            echo -e "${RED}No change to commit in submodule: $path 🙅‍♂️${NC}" 
+            printf "${RED}No change to commit in submodule: $path 🙅‍♂️${NC}\n" 
         else
             git add . && 
             git commit -m "Submodule updated" && 
@@ -35,14 +35,14 @@ function updateSubmodules() {
 }
 
 function updateMainRepo() {
-    echo -e "${BOLD}${YELLOW}Updating main repository...${NC}"
+    printf "${BOLD}${YELLOW}Updating main repository...${NC}\n"
     git add .
     git commit -m "Submodules updated"
     git push origin main
 }
 
 function endMessage() {
-    echo -e "${BOLD}${GREEN}Script execution completed 🎉${NC}"
+    printf "${BOLD}${GREEN}Script execution completed 🎉${NC}\n"
 }
 
 startMessage
