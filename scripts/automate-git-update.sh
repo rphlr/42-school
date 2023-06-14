@@ -17,38 +17,42 @@ UNDERLINE='\033[4m'
 
 function startMessage()
 {
-	printf "${BOLD}${BLUE}Starting script to update all submodules and main repository...${NC}\n"
+	printf "\n${BOLD}${BLUE}🚀 Starting script to update all submodules and main repository...${NC}\n"
 }
 
 function updateSubmodules()
 {
-	printf "${BOLD}${YELLOW}Updating submodules...${NC}\n"
+	printf "\n${BOLD}${YELLOW}🔄 Updating submodules...${NC}\n"
 	git submodule foreach --recursive '
-		printf "'$ITALIC$PURPLE'Working on submodule: %s'$NC'\n" "$path"
-		git checkout main || git checkout -b main
+		printf "\n\t'$ITALIC$PURPLE'📁 Working on submodule: %s'$NC'\n" "$path"
+		git checkout main >/dev/null 2>&1 || git checkout -b main >/dev/null 2>&1
 		if git diff-index --quiet HEAD --; then
-			printf "'$RED'No change to commit in submodule: %s 🙅‍♂️'$NC'\n" "$path"
+			printf "\t'$RED'No changes to commit in submodule: %s 🙅‍♂️'$NC'\n" "$path"
 		else
 			git add . && 
 			git commit -m "Submodule updated" && 
 			git push origin main
+			printf "\t'$GREEN'Successfully updated and pushed changes for submodule: %s ✅'$NC'\n" "$path"
 		fi
 	'
 }
 
 function updateMainRepo()
 {
+	printf "\n${BOLD}${YELLOW}🔄 Updating main repository...${NC}\n"
 	if git diff-index --quiet HEAD --; then
-		printf $RED"No change to commit in main repo 🙅‍♂️\n"
+		printf $RED"No changes to commit in main repo 🙅‍♂️\n"$NC
 	else
 		git add . && 
-		git commit -m "Submodule updated" && 
+		git commit -m "Submodules updated" && 
 		git push origin main
+		printf $GREEN"Successfully updated and pushed changes for main repo ✅\n"$NC
 	fi
 }
 
-function endMessage() {
-	printf "${BOLD}${GREEN}Script execution completed 🎉${NC}\n"
+function endMessage()
+{
+	printf "\n${BOLD}${GREEN}🏁 Script execution completed 🎉${NC}\n"
 }
 
 startMessage
