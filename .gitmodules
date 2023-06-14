@@ -204,7 +204,7 @@
 	path = Cursus/Rank00/libft
 	url = https://github.com/rphlr/42-libft
 [submodule "Born2beroot"]
-	path = Cursus/Rank01/Born2beroot
+	path = Cursus/Rank01/born2beroot
 	url = https://github.com/rphlr/42-born2beroot
 [submodule "ft_printf"]
 	path = Cursus/Rank01/ft_printf
