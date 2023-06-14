@@ -236,7 +236,7 @@
 [submodule "minishell"]
 	path = Cursus/Rank03/minishell
 	url = https://github.com/rphlr/42-minishell
-[submodule "CPP_Modules/CPP00"]
+[submodule "CPP00"]
 	path = Cursus/Rank04/CPP_Modules/CPP00
 	url = https://github.com/rphlr/42-CPP00
 [submodule "CPP_Modules/CPP01"]
