@@ -236,36 +236,6 @@
 [submodule "minishell"]
 	path = Cursus/Rank03/minishell
 	url = https://github.com/rphlr/42-minishell
-[submodule "CPP00"]
-	path = Cursus/Rank04/CPP_Modules/CPP00
-	url = https://github.com/rphlr/42-CPP00
-[submodule "CPP01"]
-	path = Cursus/Rank04/CPP_Modules/CPP01
-	url = https://github.com/rphlr/42-CPP01
-[submodule "CPP02"]
-	path = Cursus/Rank04/CPP_Modules/CPP02
-	url = https://github.com/rphlr/42-CPP02
-[submodule "CPP03"]
-	path = Cursus/Rank04/CPP_Modules/CPP03
-	url = https://github.com/rphlr/42-CPP03
-[submodule "CPP04"]
-	path = Cursus/Rank04/CPP_Modules/CPP04
-	url = https://github.com/rphlr/42-CPP04
-[submodule "CPP05"]
-	path = Cursus/Rank04/CPP_Modules/CPP05
-	url = https://github.com/rphlr/42-CPP05
-[submodule "CPP06"]
-	path = Cursus/Rank04/CPP_Modules/CPP06
-	url = https://github.com/rphlr/42-CPP06
-[submodule "CPP07"]
-	path = Cursus/Rank04/CPP_Modules/CPP07
-	url = https://github.com/rphlr/42-CPP07
-[submodule "CPP08"]
-	path = Cursus/Rank04/CPP_Modules/CPP08
-	url = https://github.com/rphlr/42-CPP08
-[submodule "CPP09"]
-	path = Cursus/Rank04/CPP_Modules/CPP09
-	url = https://github.com/rphlr/42-CPP09
 [submodule "NetPractice"]
 	path = Cursus/Rank04/NetPractice
 	url = https://github.com/rphlr/42-NetPractice
@@ -297,3 +267,33 @@
 	path = Evals
 	url = https://github.com/rphlr/42-Evals
 
+[submodule "Cursus/Rank04/CPP_Modules/CPP00"]
+	path = Cursus/Rank04/CPP_Modules/CPP00
+	url = https://github.com/rphlr/42-CPP00
+[submodule "Cursus/Rank04/CPP_Modules/CPP01"]
+	path = Cursus/Rank04/CPP_Modules/CPP01
+	url = https://github.com/rphlr/42-CPP01
+[submodule "Cursus/Rank04/CPP_Modules/CPP02"]
+	path = Cursus/Rank04/CPP_Modules/CPP02
+	url = https://github.com/rphlr/42-CPP02
+[submodule "Cursus/Rank04/CPP_Modules/CPP03"]
+	path = Cursus/Rank04/CPP_Modules/CPP03
+	url = https://github.com/rphlr/42-CPP03
+[submodule "Cursus/Rank04/CPP_Modules/CPP04"]
+	path = Cursus/Rank04/CPP_Modules/CPP04
+	url = https://github.com/rphlr/42-CPP04
+[submodule "Cursus/Rank04/CPP_Modules/CPP05"]
+	path = Cursus/Rank04/CPP_Modules/CPP05
+	url = https://github.com/rphlr/42-CPP05
+[submodule "Cursus/Rank04/CPP_Modules/CPP06"]
+	path = Cursus/Rank04/CPP_Modules/CPP06
+	url = https://github.com/rphlr/42-CPP06
+[submodule "Cursus/Rank04/CPP_Modules/CPP07"]
+	path = Cursus/Rank04/CPP_Modules/CPP07
+	url = https://github.com/rphlr/42-CPP07
+[submodule "Cursus/Rank04/CPP_Modules/CPP08"]
+	path = Cursus/Rank04/CPP_Modules/CPP08
+	url = https://github.com/rphlr/42-CPP08
+[submodule "Cursus/Rank04/CPP_Modules/CPP09"]
+	path = Cursus/Rank04/CPP_Modules/CPP09
+	url = https://github.com/rphlr/42-CPP09
