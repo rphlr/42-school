@@ -22,10 +22,10 @@ function startMessage() {
 function updateSubmodules() {
     printf "${BOLD}${YELLOW}Updating submodules...${NC}\n"
     git submodule foreach --recursive '
-        printf "${ITALIC}${PURPLE}Working on submodule: $path${NC}\n"
+        printf "'$ITALIC$PURPLE'Working on submodule: %s'$NC'\n" "$path"
         git checkout main || git checkout -b main
         if git diff-index --quiet HEAD --; then
-            printf "${RED}No change to commit in submodule: $path 🙅‍♂️${NC}\n" 
+            printf "'$RED'No change to commit in submodule: %s 🙅‍♂️'$NC'\n" "$path"
         else
             git add . && 
             git commit -m "Submodule updated" && 
