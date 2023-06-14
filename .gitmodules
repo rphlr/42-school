@@ -1,201 +1,296 @@
-[submodule "Piscine"]
-	path = Piscine
-	url = https://github.com/rphlr/42-piscine
-	link = true
+; [submodule "Piscine"]
+; 	path = Piscine
+; 	url = https://github.com/rphlr/42-piscine
+; 	link = true
+; [submodule "Born2beroot"]
+;     path = Cursus/Rank01/Born2beroot
+;     url = https://github.com/rphlr/42-born2beroot
+;     link = true
+; [submodule "ft_printf"]
+;     path = Cursus/Rank01/ft_printf
+;     url = https://github.com/rphlr/42-printf
+;     link = true
+; [submodule "get_next_line"]
+;     path = Cursus/Rank01/get_next_line
+;     url = https://github.com/rphlr/42-get_next_line
+;     link = true
+; [submodule "fract-ol"]
+;     path = Cursus/Rank02/fract-ol
+;     url = https://github.com/rphlr/42-fract-ol
+;     link = true
+; [submodule "minitalk"]
+;     path = Cursus/Rank02/minitalk
+;     url = https://github.com/rphlr/42-minitalk
+;     link = true
+; [submodule "pipex"]
+;     path = Cursus/Rank02/pipex
+;     url = https://github.com/rphlr/42-pipex
+;     link = true
+; [submodule "push_swap"]
+;     path = Cursus/Rank02/push_swap
+;     url = https://github.com/rphlr/42-push_swap
+;     link = true
+; [submodule "so_long"]
+;     path = Cursus/Rank02/so_long
+;     url = https://github.com/rphlr/42-so_long
+;     link = true
+; [submodule "Philosopher"]
+;     path = Cursus/Rank03/Philosopher
+;     url = https://github.com/rphlr/42-Philosophers
+;     link = true
+; [submodule "minishell"]
+;     path = Cursus/Rank03/minishell
+;     url = https://github.com/rphlr/42-minishell
+;     link = true
+; [submodule "CPP_Modules/CPP00"]
+;     path = Cursus/Rank04/CPP_Modules/CPP00
+;     url = https://github.com/rphlr/42-CPP00
+;     link = true
+; [submodule "CPP_Modules/CPP01"]
+;     path = Cursus/Rank04/CPP_Modules/CPP01
+;     url = https://github.com/rphlr/42-CPP01
+;     link = true
+; [submodule "CPP_Modules/CPP02"]
+;     path = Cursus/Rank04/CPP_Modules/CPP02
+;     url = https://github.com/rphlr/42-CPP02
+;     link = true
+; [submodule "CPP_Modules/CPP03"]
+;     path = Cursus/Rank04/CPP_Modules/CPP03
+;     url = https://github.com/rphlr/42-CPP03
+;     link = true
+; [submodule "CPP_Modules/CPP04"]
+;     path = Cursus/Rank04/CPP_Modules/CPP04
+;     url = https://github.com/rphlr/42-CPP04
+;     link = true
+; [submodule "CPP_Modules/CPP05"]
+;     path = Cursus/Rank04/CPP_Modules/CPP05
+;     url = https://github.com/rphlr/42-CPP05
+;     link = true
+; [submodule "CPP_Modules/CPP06"]
+;     path = Cursus/Rank04/CPP_Modules/CPP06
+;     url = https://github.com/rphlr/42-CPP06
+;     link = true
+; [submodule "CPP_Modules/CPP07"]
+;     path = Cursus/Rank04/CPP_Modules/CPP07
+;     url = https://github.com/rphlr/42-CPP07
+;     link = true
+; [submodule "CPP_Modules/CPP08"]
+;     path = Cursus/Rank04/CPP_Modules/CPP08
+;     url = https://github.com/rphlr/42-CPP08
+;     link = true
+; [submodule "CPP_Modules/CPP09"]
+;     path = Cursus/Rank04/CPP_Modules/CPP09
+;     url = https://github.com/rphlr/42-CPP09
+;     link = true
+; [submodule "NetPractice"]
+;     path = Cursus/Rank04/NetPractice
+;     url = https://github.com/rphlr/42-NetPractice
+;     link = true
+; [submodule "cub3d"]
+;     path = Cursus/Rank04/cub3d
+;     url = https://github.com/rphlr/42-cub3d
+;     link = true
+; [submodule "miniRT"]
+;     path = Cursus/Rank04/miniRT
+;     url = https://github.com/rphlr/42-miniRT
+;     link = true
+; [submodule "Inception"]
+;     path = Cursus/Rank05/Inception
+;     url = https://github.com/rphlr/42-Inception
+;     link = true
+; [submodule "irc"]
+;     path = Cursus/Rank05/irc
+;     url = https://github.com/rphlr/42-irc
+;     link = true
+; [submodule "webserv"]
+;     path = Cursus/Rank05/webserv
+;     url = https://github.com/rphlr/42-webserv
+;     link = true
+; [submodule "transcendence"]
+;     path = Cursus/Rank06/transcendence
+;     url = https://github.com/rphlr/42-transcendence
+;     link = true
+; [submodule "Exams"]
+; 	path = Exams
+; 	url = https://github.com/rphlr/42-Exams
+; 	link = true
+; [submodule "Evals"]
+; 	path = Evals
+; 	url = https://github.com/rphlr/42-Evals
+; 	link = true
+; [submodule "Cursus/Rank01/ft_printf"]
+; 	path = Cursus/Rank01/ft_printf
+; 	url = https://github.com/rphlr/42-printf
+; [submodule "Cursus/Rank03/Philosopher"]
+; 	path = Cursus/Rank03/Philosopher
+; 	url = https://github.com/rphlr/42-Philosophers
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP00"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP00
+; 	url = https://github.com/rphlr/42-CPP00
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP01"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP01
+; 	url = https://github.com/rphlr/42-CPP01
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP02"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP02
+; 	url = https://github.com/rphlr/42-CPP02
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP03"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP03
+; 	url = https://github.com/rphlr/42-CPP03
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP04"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP04
+; 	url = https://github.com/rphlr/42-CPP04
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP05"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP05
+; 	url = https://github.com/rphlr/42-CPP05
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP06"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP06
+; 	url = https://github.com/rphlr/42-CPP06
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP07"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP07
+; 	url = https://github.com/rphlr/42-CPP07
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP08"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP08
+; 	url = https://github.com/rphlr/42-CPP08
+; [submodule "Cursus/Rank04/CPP_Cursus/CPP09"]
+; 	path = Cursus/Rank04/CPP_Cursus/CPP09
+; 	url = https://github.com/rphlr/42-CPP09
+; [submodule "Cursus/Rank04/cub3d"]
+; 	path = Cursus/Rank04/cub3d
+; 	url = https://github.com/rphlr/42-cub3d
+; [submodule "Cursus/Rank04/miniRT"]
+; 	path = Cursus/Rank04/miniRT
+; 	url = https://github.com/rphlr/42-miniRT
+; [submodule "Cursus/Rank05/42-ft_containers"]
+; 	path = Cursus/Rank05/42-ft_containers
+; 	url = https://github.com/rphlr/42-ft_containers
+; [submodule "Cursus/Rank05/irc"]
+; 	path = Cursus/Rank05/irc
+; 	url = https://github.com/rphlr/42-ft_irc
+; [submodule "Cursus/Rank05/Inception"]
+; 	path = Cursus/Rank05/Inception
+; 	url = https://github.com/rphlr/42-Inception
+; [submodule "Cursus/Rank05/webserv"]
+; 	path = Cursus/Rank05/webserv
+; 	url = https://github.com/rphlr/42-webserv
+; [submodule "Cursus/Rank06/transcendence"]
+; 	path = Cursus/Rank06/transcendence
+; 	url = https://github.com/rphlr/42-ft_transcendence
+; [submodule "Cursus/Rank00/libft"]
+; 	path = Cursus/Rank00/libft
+; 	url = https://github.com/rphlr/42-libft
+; [submodule "Cursus/Rank01/born2beroot"]
+; 	path = Cursus/Rank01/born2beroot
+; 	url = https://github.com/rphlr/42-born2beroot
+; [submodule "Cursus/Rank02/FdF"]
+; 	path = Cursus/Rank02/FdF
+; 	url = https://github.com/rphlr/42-FdF
+; [submodule "Cursus/Rank02/minitalk"]
+; 	path = Cursus/Rank02/minitalk
+; 	url = https://github.com/rphlr/42-minitalk
+; [submodule "Cursus/Rank02/pipex"]
+; 	path = Cursus/Rank02/pipex
+; 	url = https://github.com/rphlr/42-pipex
+; [submodule "Cursus/Rank03/minishell"]
+; 	path = Cursus/Rank03/minishell
+; 	url = https://github.com/rphlr/42-minishell
+; [submodule "Cursus/Rank04/NetPractice"]
+; 	path = Cursus/Rank04/NetPractice
+; 	url = https://github.com/rphlr/42-NetPractice
+; [submodule "Cursus/Rank03/Philosophers"]
+; 	path = Cursus/Rank03/Philosophers
+; 	url = https://github.com/rphlr/42-Philosophers
+
+[submodule "libft"]
+	path = Cursus/Rank00/libft
+	url = https://github.com/rphlr/42-libft
 [submodule "Born2beroot"]
     path = Cursus/Rank01/Born2beroot
     url = https://github.com/rphlr/42-born2beroot
-    link = true
 [submodule "ft_printf"]
     path = Cursus/Rank01/ft_printf
     url = https://github.com/rphlr/42-printf
-    link = true
 [submodule "get_next_line"]
     path = Cursus/Rank01/get_next_line
     url = https://github.com/rphlr/42-get_next_line
-    link = true
 [submodule "fract-ol"]
     path = Cursus/Rank02/fract-ol
     url = https://github.com/rphlr/42-fract-ol
-    link = true
 [submodule "minitalk"]
     path = Cursus/Rank02/minitalk
     url = https://github.com/rphlr/42-minitalk
-    link = true
 [submodule "pipex"]
     path = Cursus/Rank02/pipex
     url = https://github.com/rphlr/42-pipex
-    link = true
 [submodule "push_swap"]
     path = Cursus/Rank02/push_swap
     url = https://github.com/rphlr/42-push_swap
-    link = true
 [submodule "so_long"]
     path = Cursus/Rank02/so_long
     url = https://github.com/rphlr/42-so_long
-    link = true
 [submodule "Philosopher"]
     path = Cursus/Rank03/Philosopher
     url = https://github.com/rphlr/42-Philosophers
-    link = true
 [submodule "minishell"]
     path = Cursus/Rank03/minishell
     url = https://github.com/rphlr/42-minishell
-    link = true
 [submodule "CPP_Modules/CPP00"]
     path = Cursus/Rank04/CPP_Modules/CPP00
     url = https://github.com/rphlr/42-CPP00
-    link = true
 [submodule "CPP_Modules/CPP01"]
     path = Cursus/Rank04/CPP_Modules/CPP01
     url = https://github.com/rphlr/42-CPP01
-    link = true
 [submodule "CPP_Modules/CPP02"]
     path = Cursus/Rank04/CPP_Modules/CPP02
     url = https://github.com/rphlr/42-CPP02
-    link = true
 [submodule "CPP_Modules/CPP03"]
     path = Cursus/Rank04/CPP_Modules/CPP03
     url = https://github.com/rphlr/42-CPP03
-    link = true
 [submodule "CPP_Modules/CPP04"]
     path = Cursus/Rank04/CPP_Modules/CPP04
     url = https://github.com/rphlr/42-CPP04
-    link = true
 [submodule "CPP_Modules/CPP05"]
     path = Cursus/Rank04/CPP_Modules/CPP05
     url = https://github.com/rphlr/42-CPP05
-    link = true
 [submodule "CPP_Modules/CPP06"]
     path = Cursus/Rank04/CPP_Modules/CPP06
     url = https://github.com/rphlr/42-CPP06
-    link = true
 [submodule "CPP_Modules/CPP07"]
     path = Cursus/Rank04/CPP_Modules/CPP07
     url = https://github.com/rphlr/42-CPP07
-    link = true
 [submodule "CPP_Modules/CPP08"]
     path = Cursus/Rank04/CPP_Modules/CPP08
     url = https://github.com/rphlr/42-CPP08
-    link = true
 [submodule "CPP_Modules/CPP09"]
     path = Cursus/Rank04/CPP_Modules/CPP09
     url = https://github.com/rphlr/42-CPP09
-    link = true
 [submodule "NetPractice"]
     path = Cursus/Rank04/NetPractice
     url = https://github.com/rphlr/42-NetPractice
-    link = true
 [submodule "cub3d"]
     path = Cursus/Rank04/cub3d
     url = https://github.com/rphlr/42-cub3d
-    link = true
 [submodule "miniRT"]
     path = Cursus/Rank04/miniRT
     url = https://github.com/rphlr/42-miniRT
-    link = true
 [submodule "Inception"]
     path = Cursus/Rank05/Inception
     url = https://github.com/rphlr/42-Inception
-    link = true
 [submodule "irc"]
     path = Cursus/Rank05/irc
     url = https://github.com/rphlr/42-irc
-    link = true
 [submodule "webserv"]
     path = Cursus/Rank05/webserv
     url = https://github.com/rphlr/42-webserv
-    link = true
 [submodule "transcendence"]
     path = Cursus/Rank06/transcendence
     url = https://github.com/rphlr/42-transcendence
-    link = true
+[submodule "Piscine"]
+	path = Piscine
+	url = https://github.com/rphlr/42-piscine
 [submodule "Exams"]
 	path = Exams
 	url = https://github.com/rphlr/42-Exams
-	link = true
 [submodule "Evals"]
 	path = Evals
 	url = https://github.com/rphlr/42-Evals
-	link = true
-[submodule "Cursus/Rank01/ft_printf"]
-	path = Cursus/Rank01/ft_printf
-	url = https://github.com/rphlr/42-printf
-[submodule "Cursus/Rank03/Philosopher"]
-	path = Cursus/Rank03/Philosopher
-	url = https://github.com/rphlr/42-Philosophers
-[submodule "Cursus/Rank04/CPP_Cursus/CPP00"]
-	path = Cursus/Rank04/CPP_Cursus/CPP00
-	url = https://github.com/rphlr/42-CPP00
-[submodule "Cursus/Rank04/CPP_Cursus/CPP01"]
-	path = Cursus/Rank04/CPP_Cursus/CPP01
-	url = https://github.com/rphlr/42-CPP01
-[submodule "Cursus/Rank04/CPP_Cursus/CPP02"]
-	path = Cursus/Rank04/CPP_Cursus/CPP02
-	url = https://github.com/rphlr/42-CPP02
-[submodule "Cursus/Rank04/CPP_Cursus/CPP03"]
-	path = Cursus/Rank04/CPP_Cursus/CPP03
-	url = https://github.com/rphlr/42-CPP03
-[submodule "Cursus/Rank04/CPP_Cursus/CPP04"]
-	path = Cursus/Rank04/CPP_Cursus/CPP04
-	url = https://github.com/rphlr/42-CPP04
-[submodule "Cursus/Rank04/CPP_Cursus/CPP05"]
-	path = Cursus/Rank04/CPP_Cursus/CPP05
-	url = https://github.com/rphlr/42-CPP05
-[submodule "Cursus/Rank04/CPP_Cursus/CPP06"]
-	path = Cursus/Rank04/CPP_Cursus/CPP06
-	url = https://github.com/rphlr/42-CPP06
-[submodule "Cursus/Rank04/CPP_Cursus/CPP07"]
-	path = Cursus/Rank04/CPP_Cursus/CPP07
-	url = https://github.com/rphlr/42-CPP07
-[submodule "Cursus/Rank04/CPP_Cursus/CPP08"]
-	path = Cursus/Rank04/CPP_Cursus/CPP08
-	url = https://github.com/rphlr/42-CPP08
-[submodule "Cursus/Rank04/CPP_Cursus/CPP09"]
-	path = Cursus/Rank04/CPP_Cursus/CPP09
-	url = https://github.com/rphlr/42-CPP09
-[submodule "Cursus/Rank04/cub3d"]
-	path = Cursus/Rank04/cub3d
-	url = https://github.com/rphlr/42-cub3d
-[submodule "Cursus/Rank04/miniRT"]
-	path = Cursus/Rank04/miniRT
-	url = https://github.com/rphlr/42-miniRT
-[submodule "Cursus/Rank05/42-ft_containers"]
-	path = Cursus/Rank05/42-ft_containers
-	url = https://github.com/rphlr/42-ft_containers
-[submodule "Cursus/Rank05/irc"]
-	path = Cursus/Rank05/irc
-	url = https://github.com/rphlr/42-ft_irc
-[submodule "Cursus/Rank05/Inception"]
-	path = Cursus/Rank05/Inception
-	url = https://github.com/rphlr/42-Inception
-[submodule "Cursus/Rank05/webserv"]
-	path = Cursus/Rank05/webserv
-	url = https://github.com/rphlr/42-webserv
-[submodule "Cursus/Rank06/transcendence"]
-	path = Cursus/Rank06/transcendence
-	url = https://github.com/rphlr/42-ft_transcendence
-[submodule "Cursus/Rank00/libft"]
-	path = Cursus/Rank00/libft
-	url = https://github.com/rphlr/42-libft
-[submodule "Cursus/Rank01/born2beroot"]
-	path = Cursus/Rank01/born2beroot
-	url = https://github.com/rphlr/42-born2beroot
-[submodule "Cursus/Rank02/FdF"]
-	path = Cursus/Rank02/FdF
-	url = https://github.com/rphlr/42-FdF
-[submodule "Cursus/Rank02/minitalk"]
-	path = Cursus/Rank02/minitalk
-	url = https://github.com/rphlr/42-minitalk
-[submodule "Cursus/Rank02/pipex"]
-	path = Cursus/Rank02/pipex
-	url = https://github.com/rphlr/42-pipex
-[submodule "Cursus/Rank03/minishell"]
-	path = Cursus/Rank03/minishell
-	url = https://github.com/rphlr/42-minishell
-[submodule "Cursus/Rank04/NetPractice"]
-	path = Cursus/Rank04/NetPractice
-	url = https://github.com/rphlr/42-NetPractice
-[submodule "Cursus/Rank03/Philosophers"]
-	path = Cursus/Rank03/Philosophers
-	url = https://github.com/rphlr/42-Philosophers
+
