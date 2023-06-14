@@ -212,6 +212,9 @@
 [submodule "get_next_line"]
 	path = Cursus/Rank01/get_next_line
 	url = https://github.com/rphlr/42-get_next_line
+[submodule "FdF"]
+	path = Cursus/Rank02/FdF
+	url = https://github.com/rphlr/42-FdF
 [submodule "fract-ol"]
 	path = Cursus/Rank02/fract-ol
 	url = https://github.com/rphlr/42-fract-ol
@@ -228,7 +231,7 @@
 	path = Cursus/Rank02/so_long
 	url = https://github.com/rphlr/42-so_long
 [submodule "Philosopher"]
-	path = Cursus/Rank03/Philosopher
+	path = Cursus/Rank03/Philosophers
 	url = https://github.com/rphlr/42-Philosophers
 [submodule "minishell"]
 	path = Cursus/Rank03/minishell
