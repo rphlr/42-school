@@ -71,7 +71,7 @@ function updateMainRepo()
 	if git diff-index --quiet HEAD --; then
 		printf $RED"No changes to commit in main repo 🙅‍♂️\n"$NC
 	else
-		git add . && 
+		git add ../* && 
 		git commit -m "Submodules updated" && 
 		git push origin main
 		printf $GREEN"Successfully updated and pushed changes for main repo ✅\n"$NC
