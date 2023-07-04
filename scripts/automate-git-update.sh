@@ -57,6 +57,7 @@ function updateSubmodules()
 		if git diff-index --quiet HEAD --; then
 			printf "\t'$RED'No changes to commit in submodule: %s 🙅‍♂️'$NC'\n" "$path"
 		else
+			make fclean >/dev/null 2>&1 || true &&
 			git add . && 
 			git commit -m "Submodule updated" && 
 			git push origin main

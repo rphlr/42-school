@@ -94,3 +94,6 @@
 [submodule "Evals"]
 	path = Evals
 	url = https://github.com/rphlr/42-Evals
+[submodule "Subjects"]
+	path = Subjects
+	url = https://github.com/rphlr/42-Subjects.git

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cbf8db1-f09c-43e0-9a7a-22ee859a99e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Cursus/Rank02/FdF" beforeDir="false" afterPath="$PROJECT_DIR$/Cursus/Rank02/FdF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/objs/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/objs/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/philo" beforeDir="false" afterPath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/philo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/philosophers.h" beforeDir="false" afterPath="$PROJECT_DIR$/Cursus/Rank03/Philosophers/philosophers.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursus/Rank04/cub3d" beforeDir="false" afterPath="$PROJECT_DIR$/Cursus/Rank04/cub3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursus/Rank04/miniRT" beforeDir="false" afterPath="$PROJECT_DIR$/Cursus/Rank04/miniRT" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Cursus/Rank03/Philosophers" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RBv2OAO6ctSWQ233RPEKpOQ0Zn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/System/Volumes/Data/mnt/sgoinfre/rrouille/42-school&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cbf8db1-f09c-43e0-9a7a-22ee859a99e4" name="Changes" comment="" />
+      <created>1686736081036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686736081036</updated>
+      <workItem from="1686736082052" duration="47000" />
+      <workItem from="1686736308370" duration="564000" />
+      <workItem from="1686737261622" duration="606000" />
+      <workItem from="1686741801092" duration="5122000" />
+      <workItem from="1686907349404" duration="741000" />
+      <workItem from="1686915147748" duration="1178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
