@@ -31,7 +31,7 @@ The status of the completed modules.
 | Project                                                   | Started | Finished ? | Final mark | Comments              |
 | --------------------------------------------------------- | ------- | ---------- | ---------- | --------------------- |
 | [Libft](https://github.com/rphlr/42-libft/)               | ✅      | ✅         | 125/100    | Francinette -strict 👌🏼 |
-| [printf](https://github.com/rphlr/42-printf)              | ✅      | ✅         | 💯          |                       |
+| [printf](https://github.com/rphlr/42-printf)              | ✅      | ✅         | 💯         |                       |
 | [GNL](https://github.com/rphlr/42-get_next_line)          | ✅      | ✅         | 125/100    |                       |
 | [Born2beroot](https://github.com/rphlr/42-born2beroot)    | ✅      | ✅         | 125/100    |                       |
 | [push_swap](https://github.com/rphlr/42-push_swap)        | ✅      | ✅         | 86/100     |                       |
@@ -40,15 +40,14 @@ The status of the completed modules.
 | [FdF](https://github.com/rphlr/42-fdf)                    | ❌      | ❌         |            |                       |
 | [pipex](https://github.com/rphlr/42-pipex)                | ✅      | ✅         | 125/100    |                       |
 | [minitalk](https://github.com/rphlr/42-minitalk)          | ❌      | ❌         |            |                       |
-| [minishell](https://github.com/rphlr/42-minishell)        | ❌      | ❌         |            |                       |
-| [philosophers](https://github.com/rphlr/42-philosophers)  | ✅      | ❌         |            |                       |
-| [netpractice](https://github.com/rphlr/42-netpractice)    | ❌      | ❌         |            |                       |
-| [CPP](https://github.com/rphlr/42-cpp)                    | ❌      | ❌         |            |                       |
-| [cube3d](https://github.com/rphlr/42-cube3d)              | ❌      | ❌         |            |                       |
+| [minishell](https://github.com/rphlr/42-minishell)        | ✅      | ✅         | 115/100    |                       |
+| [philosophers](https://github.com/rphlr/42-philosophers)  | ✅      | ✅         | 💯         |                       |
+| [netpractice](https://github.com/rphlr/42-netpractice)    | ✅      | ✅         | 💯         |                       |
+| [CPP](https://github.com/rphlr/42-cpp)                    | ✅      | ✅         | 💯         |                       |
+| [cub3d](https://github.com/rphlr/42-cube3d)               | ✅      | ✅         | 125/100    |                       |
 | [miniRT](https://github.com/rphlr/42-miniRT)              | ❌      | ❌         |            |                       |
-| [inception](https://github.com/rphlr/42-inception)        | ❌      | ❌         |            |                       |
-| [containers](https://github.com/rphlr/42-containers)      | ❌      | ❌         |            |                       |
-| [webserv](https://github.com/rphlr/42-webserv)            | ❌      | ❌         |            |                       |
+| [inception](https://github.com/rphlr/42-inception)        | ✅      | ✅         | 125/100    |                       |
+| [webserv](https://github.com/rphlr/42-webserv)            | ✅      | ❌         |            |                       |
 | [irc](https://github.com/rphlr/42-irc)                    | ❌      | ❌         |            |                       |
 | [transcendence](https://github.com/rphlr/42-transcendence)| ❌      | ❌         |            |                       |
 
