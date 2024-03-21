@@ -55,6 +55,7 @@ function updateSubmodules()
 		printf "\n\t'$ITALIC$PURPLE'📁 Working on submodule: %s'$NC'\n" "$path"
 		git checkout main >/dev/null 2>&1 || git checkout -b main >/dev/null 2>&1
 		git pull origin main >/dev/null 2>&1
+		make fclean >/dev/null 2>&1 || true
 		if git diff-index --quiet HEAD --; then
 			printf "\t'$RED'No changes to commit in submodule: %s 🙅‍♂️'$NC'\n" "$path"
 		else
