@@ -88,3 +88,6 @@
 [submodule "Bootcamp-AI"]
 	path = Bootcamp-AI
 	url = https://github.com/rphlr/42-Bootcamp-AI
+[submodule "Cursus/Rank05/inception"]
+	path = Cursus/Rank05/inception
+	url = https://github.com/rphlr/42-Inception
