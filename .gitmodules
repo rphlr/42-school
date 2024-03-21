@@ -37,6 +37,9 @@
 [submodule "CPP01"]
 	path = Cursus/Rank04/CPP_Modules/CPP01
 	url = https://github.com/rphlr/42-CPP01
+[submodule "Cursus/Rank04/CPP_Modules/CPP02"]
+	path = Cursus/Rank04/CPP_Modules/CPP02
+	url = https://github.com/rphlr/42-CPP02
 [submodule "CPP03"]
 	path = Cursus/Rank04/CPP_Modules/CPP03
 	url = https://github.com/rphlr/42-CPP03
