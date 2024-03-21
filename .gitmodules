@@ -88,3 +88,6 @@
 [submodule "Subjects"]
 	path = Subjects
 	url = https://github.com/rphlr/42-Subjects.git
+[submodule "Bootcamp-AI"]
+	path = Bootcamp-AI
+	url = https://github.com/rphlr/42-Bootcamp-AI

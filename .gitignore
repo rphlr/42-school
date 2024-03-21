@@ -4,3 +4,8 @@ dkms.conf
 .DS_Store
 .vscode/
 .idea/
+objs/
+*.o
+*.ko
+*.cmd
+*.vim
