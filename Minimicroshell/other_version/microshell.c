@@ -1,4 +1,0 @@
-#include<string.h>
-#include<sys/wait.h>
-#include<unistd.h>
-int a(char*m){while(*m)write(2,m++,1);return 1;}int b(char**l,char**r,int i){int s,f[2],p=l[i]&&!strcmp(l[i],"|");if(p&&pipe(f)==-1)return a("error: fatal\n");int c=fork();if(!c){l[i]=0;if(p&&(dup2(f[1],1)==-1||close(f[0])==-1||close(f[1])==-1))return a("error: fatal\n");execve(*l,l,r);return a("error: cannot execute "),a(*l),a("\n");}waitpid(c,&s,0);if(p&&(dup2(f[0],0)==-1||close(f[0])==-1||close(f[1])==-1))return a("error: fatal\n");return WIFEXITED(s)&&WEXITSTATUS(s);}int d(char**l,int i){if(i!=2)return a("error: cd: bad arguments\n");else if(chdir(l[1])==-1)return a("error: cd: cannot execute "),a(l[1]),a("\n");return 0;}int main(int c, char **v, char **r){int i=0,e=0;if(c>1){while(v[i]&&v[++i]){v+=i;i=0;while(v[i]&&strcmp(v[i],"|")&&strcmp(v[i],";"))i++;if(!strcmp(*v,"cd"))e=d(v,i);else if(i)e=b(v,r,i);}}return e;}
