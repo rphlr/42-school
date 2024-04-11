@@ -1,93 +1,93 @@
 [submodule "libft"]
 	path = Cursus/Rank00/libft
-	url = https://github.com/rphlr/42-libft
-[submodule "Born2beroot"]
+	url = git@github.com:rphlr/42-libft.git
+[submodule "born2beroot"]
 	path = Cursus/Rank01/born2beroot
-	url = https://github.com/rphlr/42-born2beroot
+	url = git@github.com:rphlr/42-born2beroot.git
 [submodule "ft_printf"]
 	path = Cursus/Rank01/ft_printf
-	url = https://github.com/rphlr/42-ft_printf
+	url = git@github.com:rphlr/42-ft_printf.git
 [submodule "get_next_line"]
 	path = Cursus/Rank01/get_next_line
-	url = https://github.com/rphlr/42-get_next_line
+	url = git@github.com:rphlr/42-get_next_line.git
 [submodule "FdF"]
 	path = Cursus/Rank02/FdF
-	url = https://github.com/rphlr/42-FdF
+	url = git@github.com:rphlr/42-FdF.git
 [submodule "fract-ol"]
 	path = Cursus/Rank02/fract-ol
-	url = https://github.com/rphlr/42-fract-ol
+	url = git@github.com:rphlr/42-fract-ol.git
 [submodule "pipex"]
 	path = Cursus/Rank02/pipex
-	url = https://github.com/rphlr/42-pipex
+	url = git@github.com:rphlr/42-pipex.git
 [submodule "push_swap"]
 	path = Cursus/Rank02/push_swap
-	url = https://github.com/rphlr/42-push_swap
+	url = git@github.com:rphlr/42-push_swap.git
 [submodule "so_long"]
 	path = Cursus/Rank02/so_long
-	url = https://github.com/rphlr/42-so_long
+	url = git@github.com:rphlr/42-so_long.git
 [submodule "Philosophers"]
 	path = Cursus/Rank03/Philosophers
-	url = https://github.com/rphlr/42-Philosophers
+	url = git@github.com:rphlr/42-Philosophers.git
 [submodule "minishell"]
 	path = Cursus/Rank03/minishell
-	url = https://github.com/rphlr/42-minishell
+	url = git@github.com:rphlr/42-minishell.git
 [submodule "CPP00"]
 	path = Cursus/Rank04/CPP_Modules/CPP00
-	url = https://github.com/rphlr/42-CPP00
+	url = git@github.com:rphlr/42-CPP00.git
 [submodule "CPP01"]
 	path = Cursus/Rank04/CPP_Modules/CPP01
-	url = https://github.com/rphlr/42-CPP01
+	url = git@github.com:rphlr/42-CPP01.git
 [submodule "Cursus/Rank04/CPP_Modules/CPP02"]
 	path = Cursus/Rank04/CPP_Modules/CPP02
-	url = https://github.com/rphlr/42-CPP02
+	url = git@github.com:rphlr/42-CPP02.git
 [submodule "CPP03"]
 	path = Cursus/Rank04/CPP_Modules/CPP03
-	url = https://github.com/rphlr/42-CPP03
+	url = git@github.com:rphlr/42-CPP03.git
 [submodule "CPP04"]
 	path = Cursus/Rank04/CPP_Modules/CPP04
-	url = https://github.com/rphlr/42-CPP04
+	url = git@github.com:rphlr/42-CPP04.git
 [submodule "NetPractice"]
 	path = Cursus/Rank04/NetPractice
-	url = https://github.com/rphlr/42-NetPractice
+	url = git@github.com:rphlr/42-NetPractice.git
 [submodule "cub3d"]
 	path = Cursus/Rank04/cub3d
-	url = https://github.com/rphlr/42-cub3d
+	url = git@github.com:rphlr/42-cub3d.git
 [submodule "CPP05"]
 	path = Cursus/Rank05/CPP_Modules/CPP05
-	url = https://github.com/rphlr/42-CPP05
+	url = git@github.com:rphlr/42-CPP05.git
 [submodule "CPP06"]
 	path = Cursus/Rank05/CPP_Modules/CPP06
-	url = https://github.com/rphlr/42-CPP06
+	url = git@github.com:rphlr/42-CPP06.git
 [submodule "CPP07"]
 	path = Cursus/Rank05/CPP_Modules/CPP07
-	url = https://github.com/rphlr/42-CPP07
+	url = git@github.com:rphlr/42-CPP07.git
 [submodule "CPP08"]
 	path = Cursus/Rank05/CPP_Modules/CPP08
-	url = https://github.com/rphlr/42-CPP08
+	url = git@github.com:rphlr/42-CPP08.git
 [submodule "CPP09"]
 	path = Cursus/Rank05/CPP_Modules/CPP09
-	url = https://github.com/rphlr/42-CPP09
+	url = git@github.com:rphlr/42-CPP09.git
 [submodule "webserv"]
 	path = Cursus/Rank05/webserv
-	url = https://github.com/rphlr/42-webserv
+	url = git@github.com:rphlr/42-webserv.git
 [submodule "Cursus/Rank05/inception"]
 	path = Cursus/Rank05/inception
-	url = https://github.com/rphlr/42-Inception
+	url = git@github.com:rphlr/42-Inception.git
 [submodule "transcendence"]
 	path = Cursus/Rank06/transcendence
-	url = https://github.com/rphlr/42-ft_transcendence
+	url = git@github.com:rphlr/42-ft_transcendence.git
 [submodule "Piscine"]
 	path = Piscine
-	url = https://github.com/rphlr/42-piscine
+	url = git@github.com:rphlr/42-piscine.git
 [submodule "Exams"]
 	path = Exams
-	url = https://github.com/rphlr/42-Exams
+	url = git@github.com:rphlr/42-Exams.git
 [submodule "Evals"]
 	path = Evals
-	url = https://github.com/rphlr/42-Evals
+	url = git@github.com:rphlr/42-Evals.git
 [submodule "Subjects"]
 	path = Subjects
-	url = https://github.com/rphlr/42-Subjects.git
+	url = git@github.com:rphlr/42-Subjects.git
 [submodule "Bootcamp-AI"]
 	path = Bootcamp-AI
-	url = https://github.com/rphlr/42-Bootcamp-AI
+	url = git@github.com:rphlr/42-Bootcamp-AI.git
